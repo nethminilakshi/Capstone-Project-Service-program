@@ -7,7 +7,7 @@ spring:
 
   cloud:
     config:
-      uri: http://:9000
+      uri: http://config.platform:9000
 
 
 
